@@ -1,0 +1,5 @@
+训练：
+python train.py train --env='fasterrcnn-caffe' --plot-every=100 --caffe-pretrain
+
+测试：
+python test.py test --env='test' --caffe-pretrain

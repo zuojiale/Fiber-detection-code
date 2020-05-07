@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000298.jpg</filename>
+	<path>C:\Users\asus2015\Desktop\VOCdevkit\VOC2007\JPEGImages\000298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>246</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fiber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>99</ymin>
+			<xmax>221</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>
